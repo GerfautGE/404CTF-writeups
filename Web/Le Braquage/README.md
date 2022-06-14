@@ -113,9 +113,7 @@ On récupère à nouveaux deux flags :
 
 Il manque donc qu'une seule chose : **le mot de passe**...
 
-après beaucoup de recherches on touve que sur la troisiemme page, les **erreurs passent avant le filtre** et donc en utilisant le bon payload, (merci [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/MySQL%20Injection.md) encore une fois ...)
-
-on trouve finalement après énumération de la db: 
+après beaucoup de recherches on touve que sur la troisiemme page, les **erreurs passent avant le filtre** et donc en utilisant le bon payload, (merci [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/MySQL%20Injection.md) encore une fois ...) on trouve  après énumération de la db: 
 ```sql
 ' and updatexml(null,concat(0x0a,(select column_name from information_schema.columns where table_schema=database() LIMIT 1,1)),null)-- -
 ```
