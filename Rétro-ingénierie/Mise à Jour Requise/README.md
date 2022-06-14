@@ -107,7 +107,7 @@ def unshuffle(lst, seed):
 
 ### Fonction réciproque de la fonction **`b`**
 
-La fonction **`b`** est une fonction récursive sur chaque élément de la liste. grâ ce à al fonction **`unshuffle`**, on peut remélanger la liste dans son ordre initial quelque soit la seed de **`random`**.
+La fonction **`b`** est une fonction récursive sur chaque élément de la liste. grâce à la fonction **`unshuffle`**, on peut remélanger la liste dans son ordre initial quelque soit la seed de **`random`**.
 
 ```Python
 def unb(p):
