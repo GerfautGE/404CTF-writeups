@@ -1,6 +1,8 @@
 # A l'aube d'un Echange
 
 - J'ai commencé par identifier la tour en forme de pionte au milieu de la photo:
+``
+![](/OSINT/A%20l'Aube%20d'un%20Echange/Lieu.jpg)
 
 >Après quelques recherches, il s'agit du **crayon de Lyon**
 
