@@ -1,5 +1,6 @@
 # 404CTF Writeups
-> J'ai terminé 119ème du classement sur les 2460 inscrits au CTF avec 20031 points
+
+*J'ai terminé 119ème du classement sur les 2460 inscrits au CTF avec 20031 points*
 
 J'ai travaillé dans les catégories suivantes du 404CTF:
 
@@ -12,3 +13,5 @@ J'ai travaillé dans les catégories suivantes du 404CTF:
 - [Divers](./Divers/)
 
 Vous pouvez retrouver dans chaque dossier, un sous-dossier pour chaque challenge, avec les scripts utilisés pour le résoudre.
+
+Les challenges sont, pour certains, disponibles sur le [GitHub de Hackademint](https://github.com/HackademINT/404CTF).
