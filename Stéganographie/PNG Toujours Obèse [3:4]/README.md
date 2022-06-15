@@ -2,7 +2,7 @@
 
 On récupère le fichier stage3.png dans la deuxième partie du challenge.
 
-On utilise des outils fréquent de Stéganographie pour cherher les données contenues dans le fichier.
+On utilise des outils fréquents de Stéganographie pour chercher les données contenues dans le fichier.
 
 Et en utilisant le package [zsteg](https://github.com/zed-0xff/zsteg), on obtient :
 

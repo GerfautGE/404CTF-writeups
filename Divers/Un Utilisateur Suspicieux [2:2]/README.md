@@ -29,7 +29,7 @@ $ echo *
 auth_wall.sh flag.txt
 ```
 
-- `auth_wall.sh` est probablement le script qui demande la mot de passe dès qu'on se connecte au serveur.
+- ~~`auth_wall.sh` est probablement le script qui demande le mot de passe dès qu'on se connecte au serveur.~~
 - `flag.txt` est probablement le fichier qui contient le flag.
 
 j'utilise de manière détournée la commande `printf` pour afficher le contenu du fichier `flag.txt`

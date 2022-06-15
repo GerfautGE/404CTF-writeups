@@ -21,15 +21,15 @@ Sur le site, est disponible une page [twitter](https://twitter.com/e10pthes):
 
 en fouillant les tweets, on trouve un échange avec un certain [**Pablo Sintera**](https://twitter.com/PabloSintera)
 
-Cet échange fait référence à une vielle paeg internet obtenue dans une ancienne version du site.
+Cet échange fait référence à une vielle page internet obtenue dans une ancienne version du site.
 
 On remarque que la page est hébergée sur Github. On peut donc regarder le code source.
 
 On cherche sur Github le mot clé [Gorfouland](https://github.com/search?q=gourfouland&type=code)
 
-Cela donne un bout de code qui appartient à un repo Githud qui correspond au site **Gorfouland**.
+Cela donne un bout de code qui appartient à un repo Github qui correspond au site **Gorfouland**.
 
-Dans les commits on trouve :
+Dans les commits, on trouve :
 
 ```text
 Correction mineure d'un bug de redirection

@@ -54,7 +54,7 @@ def a(c, r=True):
 
 On remarque que la fonction **`a`** exploite la fonction seed de la bibliothèque **`random`** pour générer un nombre aléatoire.
 
-celà modifie la valeur retournée par lafonction à chaque initialaisation.
+celà modifie la valeur retournée par la fonction à chaque initialaisation.
 
 Il est donc opportun de générer un dictionnaire de valeurs aléatoires pour chaque caractère de la chaine de caractère.
 

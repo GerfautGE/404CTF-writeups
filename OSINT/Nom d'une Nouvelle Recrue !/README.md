@@ -4,7 +4,7 @@ On dispose seulement d'un nom : "Edrabellah Chateaubrion"
 
 Je le recherche sur la plupart des plateformes de réseaux sociaux.
 
-je trouve un profil patfait pour [LinkedIn](https://www.linkedin.com/in/edrabellah-chateaubrion-b2572423a/)
+je trouve un profil parfait pour [LinkedIn](https://www.linkedin.com/in/edrabellah-chateaubrion-b2572423a/)
 
 je cherche les informations que je peux utiliser.
 
@@ -20,7 +20,7 @@ En cherchant sur Google on trouve un commentaire sur le Zoo de lille.
 
 Ceci nous donne un compte Google : [Edrabellah Hälbeardt](https://www.google.com/maps/contrib/103519939941085426873/photos/@32.5212054,-28.9168924,4z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=fr)
 
-en cherchant dasn ses posts, on trouve une référenceà une rencontre à partir d'un aéroport:
+en cherchant dans ses posts, on trouve une référence à une rencontre à partir d'un aéroport:
 
 Au total on possède les informations suivantes :
 

@@ -2,7 +2,7 @@
 
 on se connecte au [site](https://du-gateau.404ctf.fr)
 
- - on arrive facilement à se connecter avec nimporte quel utilisateur et mot de passe. par exemple test:test
+ - on arrive facilement à se connecter avec n'importe quel utilisateur et mot de passe. par exemple test:test
  
  - on récupère le cookie de connexion :
 
@@ -44,8 +44,8 @@ username=test;username=admin;password=sha512(password)
 dXNlcm5hbWU9dGVzdDt1c2VybmFtZT1hZG1pbjtwYXNzd29yZD1lZTI2YjBkZDRhZjdlNzQ5YWExYThlZTNjMTBhZTk5MjNmNjE4OTgwNzcyZTQ3M2Y4ODE5YTVkNDk0MGUwZGIyN2FjMTg1ZjhhMGUxZDVmODRmODhiYzg4N2ZkNjdiMTQzNzMyYzMwNGNjNWZhOWFkOGU2ZjU3ZjUwMDI4YThmZg==
 ```
 
-on accède enfin à l'onglet “Mot de Passe oublié”
-quand on regarde le code source de la page, on trouve le sha512 du mdp de l'admin:
+on accède enfin à l'onglet “Mot de Passe oublié”.
+Quand on regarde le code source de la page, on trouve le sha512 du mdp de l'admin:
 
 ```text
 66651013935b4c2c31d9baba8fa5d37b809b10da453f293ec8f9a7fbb2ab2e2c1d69dc8d80969508028b5ec14e9d1de585929a4c0d534996744b495c325e3f3d

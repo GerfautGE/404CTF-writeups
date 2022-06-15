@@ -30,7 +30,7 @@ def code(l):
 ---
 
 ## Rétro-ingénierie
-On remarque que le code se fonde principalement sur [l'opérateur booléen XOR](https://fr.wikipedia.org/wiki/Fonction_OU_exclusif). On peu en exploiter la propriété suivante :
+On remarque que le code se fonde principalement sur [l'opérateur booléen XOR](https://fr.wikipedia.org/wiki/Fonction_OU_exclusif). On peut en exploiter la propriété suivante :
 
 ```latex
 (A^B)^B = A

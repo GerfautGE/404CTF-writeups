@@ -1,7 +1,6 @@
 # A l'aube d'un Echange
 
 - J'ai commencé par identifier la tour en forme de pionte au milieu de la photo:
-``
 ![](/OSINT/A%20l'Aube%20d'un%20Echange/Lieu.jpg)
 
 >Après quelques recherches, il s'agit du **crayon de Lyon**
@@ -13,7 +12,7 @@
 - en observant la topographie (les courbes de niveaux) sur [Géoportail](https://geoportail.gouv.fr) on peut identifier plus précisement **les hauteurs de Fourvières / Vieux Lyon**. Puis en examinant mieux les tours et leur positionnement: 
 >on tombe sur la montée de saint barthélémy
 
-Ce qui formaté aux exigences de l'ennoncé donne :  
+Ce qui, formaté aux exigences de l'ennoncé, donne :  
 
 *montee-de-saint-barthelemy*
 

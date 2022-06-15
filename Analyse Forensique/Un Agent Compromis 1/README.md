@@ -2,9 +2,9 @@
 
 je recupère le fichier .pcapng
 
-je l'ouvre dans wireshark et exporte les objects HTTP echangés. notamment un fichier python :
+je l'ouvre dans wireshark et exporte les objets HTTP echangés. Notamment un fichier python :
 
-[exfiltration.py](./exfiltration.py)
+[exfiltration.py](./exfiltration.py)~~~~
 
 je l'ouvre avec un éditeur de texte et découvre le flag :
 

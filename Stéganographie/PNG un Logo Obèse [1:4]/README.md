@@ -1,6 +1,6 @@
 # PNG : Un Logo Obèse
 
-en cherchant à taton avec les différents outils de Stéganographie disponible en source ouverte, on trouve en executant **binwalk** : 
+en cherchant à taton avec les différents outils de Stéganographie disponibles en source ouverte, on trouve en executant **binwalk** : 
 
 Zip archive data, at least v2.0 to extract, compressed size: 495679, uncompressed size: 497701, name: out/stage2.png
 

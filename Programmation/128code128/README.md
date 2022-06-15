@@ -1,6 +1,6 @@
 # 128code128
 
-l'idée du challenge est de se connecter à un serveur netcat et executer des actoins à partir d'une chaine de caractère, avant de lui renvoyer ce qu'il considère comme un mot de passe.
+l'idée du challenge est de se connecter à un serveur netcat et d'executer des actions à partir d'une chaine de caractère, avant de lui renvoyer ce qu'il considère comme un mot de passe.
 
 la solution entiere est rédigée dans le fichier [solution.py](solution.py).
 
